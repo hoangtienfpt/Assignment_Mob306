@@ -1,0 +1,14 @@
+{
+  "Quanli": [
+    {
+      "name": "name1",
+      "tuoi": "1",
+      "id": 1
+    },
+    {
+      "name": "name2",
+      "tuoi": "34",
+      "id": 2
+    }
+  ]
+}
